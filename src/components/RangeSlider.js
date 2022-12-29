@@ -23,7 +23,7 @@ const RangeSlider = () => {
         onChange={handleChange}
         valueLabelDisplay="auto"
         getAriaValueText={valuetext}
-        color="secondary"
+        // color="secondary"
       />
     </Box>
   );

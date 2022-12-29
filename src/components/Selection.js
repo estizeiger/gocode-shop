@@ -22,7 +22,7 @@ const Selection = () => {
           id="demo-simple-select"
           value={category}
           label="Category"
-          color="secondary"
+          // color="secondary"
           onChange={handleChange}
         >
           <MenuItem value="All">All</MenuItem>

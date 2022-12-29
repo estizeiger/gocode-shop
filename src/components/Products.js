@@ -10,6 +10,7 @@ const Products = () => {
       {currProductList.map((item) => {
         return (
           <ProductCard
+            id={item.id}
             key={item.id}
             title={item.title}
             price={item.price}

@@ -195,3 +195,9 @@ label {
 
 }
 
+button {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  /* flex: 1; */
+}
